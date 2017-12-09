@@ -1,5 +1,5 @@
-# adventofcode
-Advent of Code 2017
+# Advent of code
+
 https://adventofcode.com/
 
 Сюда выкладываем решения задач 
